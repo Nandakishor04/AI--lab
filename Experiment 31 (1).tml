@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My HTML Tags Demo Blog</title>
+</head>
+<body>
+
+  <h1>HTML Tag Examples</h1>
+
+  <p>This is a paragraph demonstrating some HTML tags.</p>
+
+  <h2>1. Anchor Tag</h2>
+  <p>Visit <a href="https://www.google.com" target="_blank">Google</a>.</p>
+
+  <h2>2. Title Tag</h2>
+  <p>The title of this page is shown in the browser tab and search results.</p>
+
+  <h2>3. Image Tag</h2>
+  <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+
+</body>
+</html>
